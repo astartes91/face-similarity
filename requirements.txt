@@ -1,0 +1,7 @@
+#python==3.11
+tensorflow==2.15.1
+deepface==0.0.91
+
+pyqt6==6.7.0
+#pyqt6-tools==6.4.2.3.3
+qt-async-threads==0.6.0

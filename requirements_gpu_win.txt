@@ -1,0 +1,14 @@
+#python==3.10
+
+#deepface==0.0.91 pip install deepface==0.0.91 --no-dependencies
+#retina-face==0.0.17 pip install retina-face==0.0.17 --no-dependencies
+tensorflow-gpu==2.10.1
+pandas==2.2.2
+gdown==5.2.0
+opencv-python==4.9.0.80
+pillow==10.3.0
+mtcnn==0.1.1
+
+pyqt6==6.7.0
+#pyqt6-tools==6.4.2.3.3
+qt-async-threads==0.6.0
